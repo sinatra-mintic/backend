@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Rick Sanchez",
       "description": "Alive",
-      "ratingBar": 4,
+      "ratingBar": 4.5,
       "type": "",
       "gender": "Male",
       "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Morty Smith",
       "description": "Alive",
-      "ratingBar": 5,
+      "ratingBar": 5.0,
       "type": "",
       "gender": "Male",
       "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Summer Smith",
       "description": "Alive",
-      "ratingBar": 4,
+      "ratingBar": 4.5,
       "type": "",
       "gender": "Female",
       "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
