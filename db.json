@@ -2,30 +2,27 @@
   "results": [
     {
       "id": 1,
-      "name": "Rick Sanchez",
-      "description": "Alive",
+      "name": "Central Park",
+      "description": "Escenario de numerosas películas y series, es uno de los parques urbanos más grandes del mundo",
       "ratingBar": 4.5,
-      "type": "",
-      "gender": "Male",
-      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      "type": "Parque",
+      "image": "https://cdn.pixabay.com/photo/2017/08/06/09/47/central-park-2590769_960_720.jpg"
     },
     {
       "id": 2,
-      "name": "Morty Smith",
-      "description": "Alive",
+      "name": "Statue of Liberty",
+      "description": "Fue un regalo del pueblo francés a los norteamericanos, con motivo del centenario de la Declaración de Independencia de Estados Unidos",
       "ratingBar": 5.0,
-      "type": "",
-      "gender": "Male",
-      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      "type": "Estatua",
+      "image": "https://cdn.pixabay.com/photo/2021/05/24/14/54/vegas-6279528_960_720.jpg"
     },
     {
       "id": 3,
-      "name": "Summer Smith",
-      "description": "Alive",
-      "ratingBar": 4.5,
-      "type": "",
-      "gender": "Female",
-      "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+      "name": "Rockefeller Center",
+      "description": "En esta zona se encuentran algunas de las boutiques más lujosas de Nueva York. Fue declarado un Hito Histórico Nacional en 1987",
+      "ratingBar": 3.5,
+      "type": "Complejo comercial",
+      "image": "https://cdn.pixabay.com/photo/2014/04/02/16/39/new-york-307546_960_720.jpg"
     }
   ]
 }
