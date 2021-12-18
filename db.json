@@ -6,7 +6,8 @@
       "description": "Escenario de numerosas películas y series, es uno de los parques urbanos más grandes del mundo",
       "ratingBar": 4.5,
       "type": "Parque",
-      "image": "https://cdn.pixabay.com/photo/2017/08/06/09/47/central-park-2590769_960_720.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/08/06/09/47/central-park-2590769_960_720.jpg",
+      "coordinates": "geo:37.7749,-122.4194(Google+Sydney)?z=10"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "description": "Fue un regalo del pueblo francés a los norteamericanos, con motivo del centenario de la Declaración de Independencia de Estados Unidos",
       "ratingBar": 5.1,
       "type": "Estatua",
-      "image": "https://cdn.pixabay.com/photo/2021/05/24/14/54/vegas-6279528_960_720.jpg"
+      "image": "https://cdn.pixabay.com/photo/2021/05/24/14/54/vegas-6279528_960_720.jpg",
+      "coordinates": "geo:37.7749,-122.4194(Google+Sydney)?z=10"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "description": "En esta zona se encuentran algunas de las boutiques más lujosas de Nueva York. Fue declarado un Hito Histórico Nacional en 1987",
       "ratingBar": 3.5,
       "type": "Complejo comercial",
-      "image": "https://cdn.pixabay.com/photo/2014/04/02/16/39/new-york-307546_960_720.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/04/02/16/39/new-york-307546_960_720.jpg",
+      "coordinates": "geo:37.7749,-122.4194(Google+Sydney)?z=10"
     }
   ]
 }
