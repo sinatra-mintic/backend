@@ -40,7 +40,7 @@
       "ratingBar": 3.0,
       "type": "Complejo comercial",
       "image": "https://cdn.pixabay.com/photo/2020/08/10/01/11/times-square-5476715_960_720.jpg",
-      "coordinates": "geo:0.0,0.0?q=1600 Amphitheatre Parkway, Mountain+View, California",
+      "coordinates": "geo:0.0,0.0?q=1600 Times Square",
       "temp": "0-25",
       "location":"Entre la 7ª Avenida y Broadway"
     }
