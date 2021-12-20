@@ -7,7 +7,7 @@
       "ratingBar": 4.5,
       "type": "Parque",
       "image": "https://cdn.pixabay.com/photo/2017/08/06/09/47/central-park-2590769_960_720.jpg",
-      "coordinates": "geo:40.7796,-73.9668?z=18",
+      "coordinates": "geo:40.7811,-73.9666?q= + Central Park",
       "temp": "0-25",
       "location":"En el barrio de Manhattan"
     },
@@ -18,7 +18,7 @@
       "ratingBar": 5.1,
       "type": "Estatua",
       "image": "https://cdn.pixabay.com/photo/2021/05/24/14/54/vegas-6279528_960_720.jpg",
-      "coordinates": "geo:40.6901,-74.0445?z=18",
+      "coordinates": "geo:40.6901,-74.0445?q= + Estatua de la Libertad",
       "temp": "0-25",
       "location":"Isla de la Libertad, sur de Manhattan"
     },
@@ -29,7 +29,7 @@
       "ratingBar": 3.5,
       "type": "Complejo comercial",
       "image": "https://cdn.pixabay.com/photo/2014/04/02/16/39/new-york-307546_960_720.jpg",
-      "coordinates": "geo:40.7584,-73.9780?z=18",
+      "coordinates": "geo:40.7584,-73.9780?q= + Rockefeller Center",
       "temp": "0-25",
       "location":"45 Rockefeller Plaza"
     },
